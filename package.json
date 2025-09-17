@@ -1,0 +1,33 @@
+{
+  "name": "olilab-nextjs",
+  "version": "1.0.0",
+  "description": "A comprehensive Science Laboratory Management System built with Next.js. Track items, manage borrowers, and maintain a detailed log of all activities to ensure accountability and efficient lab operations.",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/genai": "0.14.0",
+    "html5-qrcode": "2.3.8",
+    "next": "14.2.5",
+    "qrcode": "1.5.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "2.12.7"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.13",
+    "@types/node": "^20",
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "typescript": "^5"
+  }
+}

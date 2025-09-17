@@ -1,0 +1,3 @@
+# This file and the entire 'olilab-backend' directory are obsolete.
+# The application has been switched from a Python/Flask backend to a Java backend.
+# This directory can be safely deleted.
